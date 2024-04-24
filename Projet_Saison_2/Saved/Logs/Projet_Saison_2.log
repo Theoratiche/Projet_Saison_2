@@ -1421,3 +1421,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.24-16.10.31:508][  1]LogAssetRegistry: AssetRegistryGather time 2.5802s: AssetDataDiscovery 0.0396s, AssetDataGather 2.5123s, StoreResults 0.0283s.
 [2024.04.24-16.10.31:517][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2024.04.24-16.10.31:545][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.24-16.12.25:377][543]LogDerivedDataCache: C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.594 and deleted 4917 files with total size 584 MiB and 4889 empty folders. Scanned 5230 files in 7010 folders with total size 595 MiB.
