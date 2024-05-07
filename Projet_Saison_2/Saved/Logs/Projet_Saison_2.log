@@ -2378,3 +2378,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-19.57.21:717][416]LogPlayLevel: Display: Destroying online subsystem :Context_27
 [2024.05.07-19.57.21:755][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.07-19.57.25:847][622]Cmd: SELECT NONE
+[2024.05.07-20.02.24:872][ 43]LogDerivedDataCache: C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 811 files in 1389 folders with total size 66 MiB.
+[2024.05.07-20.02.40:595][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.07-20.02.40:596][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.05.07-20.02.40:597][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.07-20.02.40:597][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.07-20.02.40:630][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2024.05.07-20.02.40:630][ 89]LogSavePackage: Moving '../../../../Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Saved/BP_ThirdPersonCharacter_Auto377A348A84A82D6371E5C3A9A467CF006.tmp' to '../../../../Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2024.05.07-20.02.40:631][ 89]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.05.07-20.04.36:275][480]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.07-20.04.36:366][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.07-20.04.36:792][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-20.04.36:951][497]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.07-20.04.36:953][497]LogSavePackage: Moving '../../../../Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Saved/BP_ThirdPersonCharacter1B586ABE48B1A61F71CB40B94FB9D239.tmp' to '../../../../Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.07-20.04.36:963][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 744 ms)
+[2024.05.07-20.04.36:971][497]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.07-20.04.36:971][497]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.07-21.02.24:073][ 29]LogDerivedDataCache: C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.255 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 811 files in 1389 folders with total size 66 MiB.
