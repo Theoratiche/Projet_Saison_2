@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IL/VUDCXRVOOH7IVEJXS6ADMV.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Roll/RollUE5.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Roll/RollUE5_Montage.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Climb/BracedHangToCrouch_1__UE.uasset",
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Climb/BracedHangToCrouch_1__UE_Montage.uasset",
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/UI/1OEQYNROAEZ8BTICNNBEK4.uasset",
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -37,15 +47,7 @@
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Climb/BracedHangToCrouch_1__UE.uasset",
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B5/4L8K1VE05OHYB4SWR6O2J9.uasset",
 				"C:/Users/33783/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Climb/Braced_UE.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Vaulting/VaultOver_Montage.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B5/4L8K1VE05OHYB4SWR6O2J9.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IL/VUDCXRVOOH7IVEJXS6ADMV.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Vaulting/VaultOver.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Roll/RollUE5.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/Characters/Mannequins/Animations/Roll/RollUE5_Montage.uasset"
+				"C:/Users/Theo/Documents/GitHub/Projet_Saison_2/Projet_Saison_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B5/4L8K1VE05OHYB4SWR6O2J9.uasset"
 			]
 		}
 	]
